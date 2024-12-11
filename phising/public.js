@@ -56,7 +56,7 @@
                     "logo_url": "https:\/\/s.id\/29CyY",
                     "name": "Moji",
                     "stream_url": "https:\/\/atemecdnbalancer-voe.sysln.id\/live\/eds\/MOJIOChannel\/mpd\/MOJIOChannel.mpd",
-                    
+                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
                 	"drm_id": "indoho",
@@ -79,21 +79,21 @@
                     "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhC5AJXRhlKNS76pgRFRcTPS199IvEnJwu8LVFO6kOOEC-KbajU8qNM_IKvUiKzcgGnT5psMA12tPWDRfkZCsVtzJ-2xY0qa6b7gZdPDMmMZ3pavr0HgaSS5sEWRGOXbzzi5MUhdM5Bg4n9j3pNsBu5S-TQ6dKhhN1IOrrn0MFpV7hZwsCGNIcz-NptVJw\/s1280\/20240909_235335.jpg",
                     "name": "Citra Bioskop",
                     "stream_url": "https:\/\/atemecdnbalancer-voe.sysln.id\/live\/eds\/CitraBioskopHD\/mpd\/CitraBioskopHD.mpd",
-                    
+                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
                     "drm_id": "CitraEnt",
                     "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEj6wwGUPWsXZ4VtDsJDAHVKB8bl-p43s2PKm-UhuYWcKR6pVd3uPOrvouNNolPHDaW5x1PAUB603ioyF2eCD-It79NBYnF7LLO2neYgGlOANTJD7fxlbo_0CRVYfRTgxnTTkNZjmr7mF91uSJWMaEyn7w4lZHShzDMU3z10M5GwpliXDDw-wFqHUgRrP2I\/s1280\/20240909_234327.jpg",
                     "name": "Citra Entertainment",
                     "stream_url": "https:\/\/atemeshield1-voe.sysln.id\/live\/eds\/CitraEntertainmentHD\/mpd\/CitraEntertainmentHD.mpd",
-               
+                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                {
                     "drm_id": "first_sct",
                     "logo_url": "https:\/\/s.id\/29Cys",
                     "name": "Sctv",
                     "stream_url": "https:\/\/atemecdnbalancer-voe.sysln.id\/live\/eds\/SCTVHD\/mpd\/SCTVHD.mpd",
-                    
+                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                {
                     "drm_id": "first_ind",
