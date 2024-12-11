@@ -24,7 +24,7 @@
                 {
                     "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjTPnj8t0UxvPx-303QQUshDQriKYdRynIcOdFSEIykezNv9b_rvWskur16CpeZwc8xv8R6it-TChbscdz6D-4WBmXoCEzlF_FVxkroaeiQ633KMWn9BMjOiL9bFQuw-IW48982ncr7GuArgx2-JcUqFT_bJleSeE5Z9vcz_M6DdB86QvHwDLLFxE7fZQE\/s1280\/20240910_004032.jpg",
                     "name": "Tv 3",
-                    "stream_url": "https:\/\/tonton-live-ssai.akamaized.net\/live\/2dd2b7cd-1b34-4871-b669-57b5c9beca23\/cmaf.isml\/.m3u8",
+                    "stream_url": "https:\/\/mifntechnology.github.io\/siaranMy\/channels\/Tv3\/index.m3u8",
                     "user_agent": "Mozilla/5.0 (compatible; YandexAccessibilityBot/3.0; +http://yandex.com/bots)"
                 },
                 {
@@ -36,7 +36,7 @@
                 {
                     "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjI6uLTxfgXqsDz9CgC_gEBFC6sxZgfp_9-_q5McgPwAhOsdr_gQanb6Rz7xPF1kxKVgwCkUV85sN6QLV6qU4k7uybNi3qMt1cIcMF8G33ewoOTWp0_jIQy2eXeN-qz2mr2zVszaJLeab7ZSF_0tmSd7_k0XjGzjhqk40OWzFc8ftbaElKko9jlQ_3cC9g\/s1280\/20240910_005041.jpg",
                     "name": "Tv 9",
-                    "stream_url": "https:\/\/tonton-live-ssai.akamaized.net\/live\/2020783a-0303-401a-9c92-b7c3c9108c0b\/cmaf.isml\/.m3u8",
+                    "stream_url": "https:\/\/mifntechnology.github.io\/siaranMy\/channels\/Tv9\/index.m3u8",
                     "user_agent": "Mozilla/5.0 (compatible; YandexAccessibilityBot/3.0; +http://yandex.com/bots)"
                 },
                 {
@@ -48,16 +48,15 @@
                 {
                     "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEgjzoa540bCue6Vt-YG3G4-ZCTccaXblK_18fBq1Os8C_1ojhAXSwniKKBvhVpcAPpwMCdodPM1Ma0G8oekqgnd_1fktXU-kPRuEfc7-00zHeImlpH7K44Ll1Z-OaLOqnrcCraE0mY1A-qt4wzUAZAuYGedZpLqikY-S6yklD0AaDusb_c379M-oD_1LkQ\/s1280\/20240910_005706.jpg",
                     "name": "Didik Tv",
-                    "stream_url": "https:\/\/tonton-live-ssai.akamaized.net\/live\/0e27ef78-4cc9-4c62-bec9-5c946c9e7354\/cmaf.isml\/.m3u8",
+                    "stream_url": "https:\/\/mifntechnology.github.io\/siaranMy\/channels\/DidikTvKPM\/index.m3u8",
                     "user_agent": "Mozilla/5.0 (compatible; YandexAccessibilityBot/3.0; +http://yandex.com/bots)"
                 },
                {
-                    "drm_id": "moji",
-                    "referer": "https:\/\/www.visionplus.id",
+                    "drm_id": "moji"
                     "logo_url": "https:\/\/s.id\/29CyY",
                     "name": "Moji",
                     "stream_url": "https:\/\/atemecdnbalancer-voe.sysln.id\/live\/eds\/MOJIOChannel\/mpd\/MOJIOChannel.mpd",
-                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
+                    
                 },
                 {
                 	"drm_id": "indoho",
@@ -77,26 +76,24 @@
                 },
                 {
                     "drm_id": "CitraBioskop",
-                    "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhC5AJXRhlKNS76pgRFRcTPS199IvEnJwu8LVFO6kOOEC-KbajU8qNM_IKvUiKzcgGnT5psMA12tPWDRfkZCsVtzJ-2xY0qa6b7gZdPDMmMZ3pavr0HgaSS5sEWRGOXbzzi5MUhdM5Bg4n9j3pNsBu5S-TQ6dKhhN1IOrrn0MFpV7hZwsCGNIcz-NptVJw\/s1280\/20240909_235335.jpg",
                     "name": "Citra Bioskop",
                     "stream_url": "https:\/\/atemecdnbalancer-voe.sysln.id\/live\/eds\/CitraBioskopHD\/mpd\/CitraBioskopHD.mpd",
-                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
+                    
                 },
                 {
                     "drm_id": "CitraEnt",
-                    "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEj6wwGUPWsXZ4VtDsJDAHVKB8bl-p43s2PKm-UhuYWcKR6pVd3uPOrvouNNolPHDaW5x1PAUB603ioyF2eCD-It79NBYnF7LLO2neYgGlOANTJD7fxlbo_0CRVYfRTgxnTTkNZjmr7mF91uSJWMaEyn7w4lZHShzDMU3z10M5GwpliXDDw-wFqHUgRrP2I\/s1280\/20240909_234327.jpg",
                     "name": "Citra Entertainment",
                     "stream_url": "https:\/\/atemeshield1-voe.sysln.id\/live\/eds\/CitraEntertainmentHD\/mpd\/CitraEntertainmentHD.mpd",
-                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
+               
                 },
                {
                     "drm_id": "first_sct",
                     "logo_url": "https:\/\/s.id\/29Cys",
                     "name": "Sctv",
                     "stream_url": "https:\/\/atemecdnbalancer-voe.sysln.id\/live\/eds\/SCTVHD\/mpd\/SCTVHD.mpd",
-                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
+                    
                 },
                {
                     "drm_id": "first_ind",
@@ -105,12 +102,7 @@
                     "stream_url": "https:\/\/atemecdnbalancer-voe.sysln.id\/live\/eds\/IndosiarHD\/mpd\/IndosiarHD.mpd",
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
-                {                    
-                    "logo_url": "https:\/\/s.id\/29Cyk",
-                    "name": "Indosiar",
-                    "stream_url": "https:\/\/achitho12.github.io\/bed\/Indoku\/master.m3u8",
-                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
-                },
+                
                 {                	
                 	"referer": "https://www.dens.tv",
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjB48LIfQJQVinh98gFLNZnQF3YpTQCfc0gDYkLYpqW-xDatRRYfuACAJL6O-ugKX9zFeHOJoe1HdvpZfeHST2ShVbwEfOy8Bg6w2SdJFkFn9jURzUsD0JQOSkr2ZahJVhk0CellBV1otD73x1UFWxZzefKbcJ_DFEtTnNM54VjSaM-rH2nbmWDys2zvcg/s1280/20240911_190934.jpg",
